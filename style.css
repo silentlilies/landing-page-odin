@@ -30,6 +30,7 @@ body {
 }
 
 .subheader {
+    align-content: center;
     background: #1F2937;
     display: flex;
     justify-content: space-between;
