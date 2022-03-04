@@ -80,6 +80,23 @@ body {
     margin-top: -200px;
 }
 
+.images-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+}
+
+figcaption {
+    width: 200px;
+    flex-wrap: wrap;
+}
+
 ul {
     list-style-type: none;
 }
