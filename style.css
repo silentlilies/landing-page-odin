@@ -92,6 +92,32 @@ body {
     justify-content: center;
 }
 
+.quote {
+    display: flex;
+    text-align: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: #E5E7EB;
+    padding: 50px;
+}
+
+.quotetext {
+    width: 600px;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.attribute {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 400px;
+    margin-top: -20px;
+    font-weight: 900;
+}
+
 figcaption {
     width: 200px;
     flex-wrap: wrap;
